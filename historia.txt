@@ -20,3 +20,8 @@ git log: se usa para ver la historia de nuestros archivos, los commits, el usuar
 
 
 cambios nuevos
+
+estos son otros cambios
+ y otros cambios
+
+ 
